@@ -1,0 +1,8 @@
+rank,model_and_effort,harness,subjective_score_out_of_10,time_mm_ss_or_note,historical_cost_estimate_usd_or_note,reported_build_size
+1,Claude Opus 5.5 xhigh,Claude Code,9.7,49:07,$13.48,84.7 KB
+2,GPT-6 Astra xhigh,Codex,9,16:50,"≈ $4.69 (1.86M tokens, API-equivalent)",50.4 KB
+3,Claude Fable 5.1 xhigh,Claude Code,8.5,88:32,$40.07,65.4 KB
+4,Gemini 4 Argon high,Gemini CLI,8,51:17,≈ $3.97,91.9 KB
+5,GPT-6.1 Sol xhigh,Codex,6.5,31:01,"≈ $1.68 (3.58M tokens, API-equivalent)",60.6 KB
+6,Grok 4.7 xhigh,Cursor,3.5,"~69 min, then hung",—,60.3 KB
+7,Gemini 3.1 Pro high,Gemini CLI,1,3:21,≈ $0.45,25.7 KB

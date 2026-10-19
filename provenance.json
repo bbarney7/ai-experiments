@@ -113,6 +113,20 @@
       "source_sha256": "081be9a1f54768527a8262cc3ea9633818f6ed756faab0d85ba33a027246d72c",
       "published_sha256": "010fefd1112f8b270b2dc70b7381cc903f72f633fad462043fa9068db6438df3",
       "note": "Only the generator prompt function excerpted; no local execution wrapper, keys or datasets."
+    },
+    {
+      "file": "experiments/gummy-bears/prompt.md",
+      "source": "PROMPT.md",
+      "source_sha256": "6fa0b9e62e18f0f384c08262e0a8cc93f3f7433cf1ab9f9a50134bbb6861f59a",
+      "published_sha256": "6fa0b9e62e18f0f384c08262e0a8cc93f3f7433cf1ab9f9a50134bbb6861f59a",
+      "note": "Byte-for-byte saved prompt used across the headline builds; third-party Reddit origin and unverified original license documented in experiment attribution."
+    },
+    {
+      "file": "experiments/gummy-bears/results.csv",
+      "source": "gummy-bears.md",
+      "source_sha256": "1b0200634de43eaeb6fcc56c96c295b7369b0954268beb0aa7e71c48111e836f",
+      "published_sha256": "acbb6165882bf68b0e750f9086384fc20a1c43c793ac5ab72d383f92265b57cc",
+      "note": "Seven original scored table rows extracted without rewriting model labels, scores, timing, cost notes or build sizes; local server ports omitted."
     }
   ]
 }

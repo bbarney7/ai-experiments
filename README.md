@@ -8,6 +8,7 @@ Prompts, test setups, and results from Brennen Barney's YouTube experiments with
 
 | Experiment | What's included | Status |
 | --- | --- | --- |
+| [Squishy gummy bears](experiments/gummy-bears/) | Exact shared prompt, seven-model setup, scores, timings and interventions | Seven headline builds completed and scored |
 | [Build a Notion-style app](experiments/notion-clone/) | Full build prompt, setup, published video links | Run completed; prompt parameterized for reuse |
 | [AI models build Bloons TD](experiments/bloons-effort-levels/) | Saved prompt, scoring rubric, 34 scored build rows, known confounds | Runs and reviews completed |
 | [Planner + cheaper coding agents](experiments/planner-worker-teams/) | Orchestration prompt, team configuration, six scored team rows | Runs and reviews completed |
@@ -39,4 +40,4 @@ Copy [templates/experiment](templates/experiment/) into `experiments/<slug>/`, r
 
 ## Reuse
 
-The prompts and documentation in this repository are available under the [MIT license](LICENSE). Third-party products, trademarks, datasets, generated applications, and linked material retain their own terms.
+Except where a file or experiment states otherwise, the prompts and documentation in this repository are available under the [MIT license](LICENSE). The gummy-bear prompt is third-party material; see its [attribution](experiments/gummy-bears/ATTRIBUTION.md). Third-party products, trademarks, datasets, generated applications, and linked material retain their own terms.
