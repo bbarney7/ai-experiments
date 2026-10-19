@@ -1,0 +1,7 @@
+group,rank,model_or_team,graphics,complexity,quality,creativity,overall,historical_api_equivalent_usd,time_h_mm,tokens
+"Teams: Opus 5.5 plans, another model writes all the code (headless Claude Code)",1,"Opus 5.5 plans, Sonnet 5.5 builds",8.5,9.5,7,6.5,7.9,$70.99,4:55 ◊,284.7M
+"Teams: Opus 5.5 plans, another model writes all the code (headless Claude Code)",2,"Opus 5.5 plans, Haiku 5.5 builds",8,9,7.5,5,7.4,$29.93,2:33,362.3M
+"Teams: Opus 5.5 plans, another model writes all the code (headless Claude Code)",3,"Opus 5.5 plans, GPT-6 Luna builds ¶¶",8,9,3.5,7,6.9,$19.00,6:50,393.0M
+"Teams: Sonnet 5.5 plans, Haiku writes all the code (headless Claude Code)",1,"Sonnet 5.5 high plans, Haiku 5.5 builds ✦",7.5,8.5,7.5,5,7.1,$22.27,2:43,265.9M
+"Teams: Sonnet 5.5 plans, Haiku writes all the code (headless Claude Code)",2,"Sonnet 5.5 medium plans, Haiku 5.5 builds ▲",6.5,7,6,4,5.9,$8.89,4:17 ▲,112.7M
+"Teams: Sonnet 5.5 plans, Haiku writes all the code (headless Claude Code)",3,"Sonnet 5.5 medium plans, Haiku 4.5 builds ◆",6,6,2,3.5,4.4,$34.22,"2:35, stopped",219.5M

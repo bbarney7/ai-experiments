@@ -1,0 +1,118 @@
+{
+  "exported": "2026-10-19",
+  "note": "Saved source snapshots. Hashes identify export-time files, not necessarily launch-time revisions. New explanatory READMEs and template files are editorial additions.",
+  "sources": [
+    {
+      "file": "experiments/notion-clone/prompt.md",
+      "source": "notion-web-app-build-prompt.md",
+      "source_sha256": "55af780262beb8c61906f47fc7b1c6d67a9e72bbf866a3eda287b64ea81c563e",
+      "published_sha256": "a84f8c0c99c82c701ebe23e11de997764ae7abbc7087cb230e9360f5d20cc2c6",
+      "note": "Original Fable goal-file snapshot; workspace and three project/comparison identifiers replaced by documented placeholders. All other wording preserved, including source typos."
+    },
+    {
+      "file": "experiments/bloons-effort-levels/prompt.md",
+      "source": "PROMPT.md",
+      "source_sha256": "a0885eb2ab85100ff52e452b8f00c5bdf54bd21873b8d070b0f3d7b02a2f6979",
+      "published_sha256": "a0885eb2ab85100ff52e452b8f00c5bdf54bd21873b8d070b0f3d7b02a2f6979",
+      "note": "Verbatim saved source snapshot."
+    },
+    {
+      "file": "experiments/planner-worker-teams/prompt.md",
+      "source": "PROMPT-orchestra.md",
+      "source_sha256": "f3299ea82ae4e7a54e6ccf3ebda0e93583026b847769b92f8b8254af838f68be",
+      "published_sha256": "f3299ea82ae4e7a54e6ccf3ebda0e93583026b847769b92f8b8254af838f68be",
+      "note": "Verbatim saved source snapshot."
+    },
+    {
+      "file": "experiments/planner-worker-teams/prompt-luna.md",
+      "source": "PROMPT-orchestra-luna.md",
+      "source_sha256": "e527a6b0cb2899902e8aa8db985494d87d37a5c3f76211089d347ea51de112ac",
+      "published_sha256": "e527a6b0cb2899902e8aa8db985494d87d37a5c3f76211089d347ea51de112ac",
+      "note": "Verbatim saved source snapshot."
+    },
+    {
+      "file": "experiments/planning-vs-direct/prompts/native.md",
+      "source": "native.md",
+      "source_sha256": "a20f92bc2e204297cb179abe4139912ab7e8e06227b5e16f12f29b12b36b9800",
+      "published_sha256": "a20f92bc2e204297cb179abe4139912ab7e8e06227b5e16f12f29b12b36b9800",
+      "note": "Verbatim saved source snapshot."
+    },
+    {
+      "file": "experiments/planning-vs-direct/prompts/none.md",
+      "source": "none.md",
+      "source_sha256": "dd5f34db3a079298c57eb9b66b97ab0f1072863259287331cd1360bbab2e3ee4",
+      "published_sha256": "dd5f34db3a079298c57eb9b66b97ab0f1072863259287331cd1360bbab2e3ee4",
+      "note": "Verbatim saved source snapshot."
+    },
+    {
+      "file": "experiments/planning-vs-direct/prompts/syntaur.md",
+      "source": "syntaur.md",
+      "source_sha256": "af74bf82410b7397309b3917a974a32b1fa85acd070723e5eaa39ee647dd9b40",
+      "published_sha256": "af74bf82410b7397309b3917a974a32b1fa85acd070723e5eaa39ee647dd9b40",
+      "note": "Verbatim saved source snapshot."
+    },
+    {
+      "file": "experiments/planning-vs-direct/specs/calculator.md",
+      "source": "calculator.md",
+      "source_sha256": "bdf7b1e9b505e50885363a4f8542e8229ff9f126794ba7e787756ce613114c88",
+      "published_sha256": "bdf7b1e9b505e50885363a4f8542e8229ff9f126794ba7e787756ce613114c88",
+      "note": "Verbatim saved source snapshot."
+    },
+    {
+      "file": "experiments/planning-vs-direct/specs/snippets.md",
+      "source": "snippets.md",
+      "source_sha256": "422e7d377bacc9355a94d46a286435525d51964a211a931e6bd2ba8f18cc2224",
+      "published_sha256": "422e7d377bacc9355a94d46a286435525d51964a211a931e6bd2ba8f18cc2224",
+      "note": "Verbatim saved source snapshot."
+    },
+    {
+      "file": "experiments/bloons-effort-levels/results.csv",
+      "source": "RANKINGS.md",
+      "source_sha256": "b35f0618f2ece12dc1a113e85ddaeec3bea7e1effb8e3817b554ae309efa615e",
+      "published_sha256": "5bdc789d254a6a1553e35d9a9dd77b65ab69ee69107c806d4398e26aa8ab2d34",
+      "note": "Individual-build rows extracted from the historical rankings; source footnote markers retained."
+    },
+    {
+      "file": "experiments/planner-worker-teams/results.csv",
+      "source": "RANKINGS.md",
+      "source_sha256": "b35f0618f2ece12dc1a113e85ddaeec3bea7e1effb8e3817b554ae309efa615e",
+      "published_sha256": "342fce95ce56e82a568caacd466fbe41423d72f0be10dfc65ba3048d5a83d23e",
+      "note": "Six scored team rows extracted from the historical rankings; source footnote markers retained."
+    },
+    {
+      "file": "experiments/classification-benchmarks/tasks.json",
+      "source": "harness.py",
+      "source_sha256": "edfa1643fb1cbbfcffbafd6f5653c18a598f0d3c32237649d83c8b2aecc2e416",
+      "published_sha256": "3d49ee9f0837407de24f79a4459714d64973931e34a36c130886cdf84a4ac632",
+      "note": "Question text, state formatting, wrapper and answer/label mapping recovered from harness; options expanded from its taxonomy and category sources."
+    },
+    {
+      "file": "experiments/classification-benchmarks/prompts/email.md",
+      "source": "mail_categories.py",
+      "source_sha256": "470cb202e87c7f2b2ac9305d83699aab50a8d2489da27e58ddf7c7028821e0d2",
+      "published_sha256": "c65202b4b75b6dcf0ae0db634437fe85692bd34f4140a4b193e982bffb755cc0",
+      "note": "Exact option descriptions expanded into the chat wrapper; private input replaced by a placeholder."
+    },
+    {
+      "file": "experiments/classification-benchmarks/ticket-taxonomy.json",
+      "source": "ticket-taxonomy.md",
+      "source_sha256": "ae7f9c081eacffc58fe7b577632d2e4284218978f165eef25d6369ec3f93001c",
+      "published_sha256": "49df884fb715f33cd34cb932e44765311d11a12e356c76150225ae788a71c11c",
+      "note": "Seventy issue rows and team grouping extracted from Markdown."
+    },
+    {
+      "file": "experiments/classification-benchmarks/results.md",
+      "source": "haiku-5-5-rematch.md",
+      "source_sha256": "2c0e2c5a1d4ed267b38943d7be0fe2b599ed9b94fc4594d7f8473c3749cfadab",
+      "published_sha256": "8b2ae77a28547ba11c9e361c6d87dd7696bbe2080456baf7210900aeada13855",
+      "note": "Historical aggregate accuracy table copied; no private inputs or per-item outputs."
+    },
+    {
+      "file": "experiments/classification-benchmarks/ticket-generation.md",
+      "source": "gen_tickets.py",
+      "source_sha256": "081be9a1f54768527a8262cc3ea9633818f6ed756faab0d85ba33a027246d72c",
+      "published_sha256": "010fefd1112f8b270b2dc70b7381cc903f72f633fad462043fa9068db6438df3",
+      "note": "Only the generator prompt function excerpted; no local execution wrapper, keys or datasets."
+    }
+  ]
+}

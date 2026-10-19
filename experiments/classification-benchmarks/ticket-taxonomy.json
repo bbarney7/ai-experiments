@@ -1,0 +1,352 @@
+[
+  {
+    "label": "charged_twice",
+    "description": "duplicate charge for the same period",
+    "team": "Billing"
+  },
+  {
+    "label": "refund_request",
+    "description": "wants money back for a charge",
+    "team": "Billing"
+  },
+  {
+    "label": "cancel_subscription",
+    "description": "wants to stop paying and cancel",
+    "team": "Billing"
+  },
+  {
+    "label": "downgrade_plan",
+    "description": "wants a cheaper plan",
+    "team": "Billing"
+  },
+  {
+    "label": "upgrade_plan",
+    "description": "wants a bigger plan or more features",
+    "team": "Billing"
+  },
+  {
+    "label": "invoice_copy",
+    "description": "needs an invoice or receipt",
+    "team": "Billing"
+  },
+  {
+    "label": "invoice_details_wrong",
+    "description": "company name, address or tax ID on the invoice is wrong",
+    "team": "Billing"
+  },
+  {
+    "label": "payment_failed",
+    "description": "card declined or payment didn't go through",
+    "team": "Billing"
+  },
+  {
+    "label": "update_card",
+    "description": "wants to change the payment method",
+    "team": "Billing"
+  },
+  {
+    "label": "unexpected_price",
+    "description": "price went up or the charge is higher than expected",
+    "team": "Billing"
+  },
+  {
+    "label": "seat_count_billing",
+    "description": "billed for more users than they have",
+    "team": "Billing"
+  },
+  {
+    "label": "annual_vs_monthly",
+    "description": "wants to switch billing frequency",
+    "team": "Billing"
+  },
+  {
+    "label": "discount_or_coupon",
+    "description": "asking about a promo, nonprofit or student discount",
+    "team": "Billing"
+  },
+  {
+    "label": "tax_question",
+    "description": "sales tax, VAT or tax exemption",
+    "team": "Billing"
+  },
+  {
+    "label": "app_wont_load",
+    "description": "the web app is blank, stuck or won't open",
+    "team": "Technical support"
+  },
+  {
+    "label": "slow_performance",
+    "description": "the app is laggy or pages load slowly",
+    "team": "Technical support"
+  },
+  {
+    "label": "mobile_app_crash",
+    "description": "the phone app crashes or freezes",
+    "team": "Technical support"
+  },
+  {
+    "label": "notifications_broken",
+    "description": "not getting emails or push alerts, or getting too many",
+    "team": "Technical support"
+  },
+  {
+    "label": "sync_problem",
+    "description": "changes don't show up across devices or teammates",
+    "team": "Technical support"
+  },
+  {
+    "label": "file_upload_fails",
+    "description": "can't attach or upload files",
+    "team": "Technical support"
+  },
+  {
+    "label": "integration_slack",
+    "description": "Slack integration broken or setup help",
+    "team": "Technical support"
+  },
+  {
+    "label": "integration_google",
+    "description": "Google Calendar or Drive integration issue",
+    "team": "Technical support"
+  },
+  {
+    "label": "integration_github",
+    "description": "GitHub integration issue",
+    "team": "Technical support"
+  },
+  {
+    "label": "api_error",
+    "description": "developer getting errors from the API",
+    "team": "Technical support"
+  },
+  {
+    "label": "import_from_other_tool",
+    "description": "moving data in from Trello, Asana or a spreadsheet",
+    "team": "Technical support"
+  },
+  {
+    "label": "export_data",
+    "description": "wants to export their projects or data",
+    "team": "Technical support"
+  },
+  {
+    "label": "data_missing",
+    "description": "tasks, comments or projects disappeared",
+    "team": "Technical support"
+  },
+  {
+    "label": "feature_not_working",
+    "description": "a specific feature behaves wrong (recurring tasks, due dates, search)",
+    "team": "Technical support"
+  },
+  {
+    "label": "cant_log_in",
+    "description": "can't sign in, wrong password or error on login",
+    "team": "Account and access"
+  },
+  {
+    "label": "password_reset_not_arriving",
+    "description": "reset email never shows up",
+    "team": "Account and access"
+  },
+  {
+    "label": "two_factor_locked_out",
+    "description": "lost phone or authenticator, locked out by two-factor",
+    "team": "Account and access"
+  },
+  {
+    "label": "change_email",
+    "description": "wants to change the account email address",
+    "team": "Account and access"
+  },
+  {
+    "label": "delete_account",
+    "description": "wants their account or data deleted",
+    "team": "Account and access"
+  },
+  {
+    "label": "sso_setup",
+    "description": "single sign-on (Okta, Google Workspace) setup or errors",
+    "team": "Account and access"
+  },
+  {
+    "label": "invite_teammate",
+    "description": "can't invite someone, or the invite never arrives",
+    "team": "Account and access"
+  },
+  {
+    "label": "remove_teammate",
+    "description": "wants to remove a former employee",
+    "team": "Account and access"
+  },
+  {
+    "label": "permissions_roles",
+    "description": "who can see or edit what, admin rights",
+    "team": "Account and access"
+  },
+  {
+    "label": "transfer_ownership",
+    "description": "wants to hand the workspace to someone else",
+    "team": "Account and access"
+  },
+  {
+    "label": "merge_accounts",
+    "description": "has duplicate accounts to combine",
+    "team": "Account and access"
+  },
+  {
+    "label": "workspace_rename",
+    "description": "rename or change the workspace URL",
+    "team": "Account and access"
+  },
+  {
+    "label": "suspicious_login",
+    "description": "saw a login they don't recognize",
+    "team": "Account and access"
+  },
+  {
+    "label": "account_hacked",
+    "description": "believes someone took over the account",
+    "team": "Account and access"
+  },
+  {
+    "label": "pricing_question",
+    "description": "how much it costs, what's in each plan",
+    "team": "Sales and pre-sales"
+  },
+  {
+    "label": "demo_request",
+    "description": "wants a demo or a sales call",
+    "team": "Sales and pre-sales"
+  },
+  {
+    "label": "enterprise_quote",
+    "description": "large team wanting custom pricing or a contract",
+    "team": "Sales and pre-sales"
+  },
+  {
+    "label": "trial_extension",
+    "description": "wants more time on the free trial",
+    "team": "Sales and pre-sales"
+  },
+  {
+    "label": "competitor_comparison",
+    "description": "how it compares to Asana, Monday or Jira",
+    "team": "Sales and pre-sales"
+  },
+  {
+    "label": "feature_availability",
+    "description": "asks whether a feature exists before buying",
+    "team": "Sales and pre-sales"
+  },
+  {
+    "label": "procurement_paperwork",
+    "description": "needs a W-9, vendor form or purchase order",
+    "team": "Sales and pre-sales"
+  },
+  {
+    "label": "security_questionnaire",
+    "description": "IT wants security or compliance documents",
+    "team": "Sales and pre-sales"
+  },
+  {
+    "label": "partnership_inquiry",
+    "description": "reseller, agency or partnership pitch",
+    "team": "Sales and pre-sales"
+  },
+  {
+    "label": "education_nonprofit",
+    "description": "school or nonprofit asking about eligibility",
+    "team": "Sales and pre-sales"
+  },
+  {
+    "label": "migration_help_presales",
+    "description": "wants help switching before they commit",
+    "team": "Sales and pre-sales"
+  },
+  {
+    "label": "volume_discount",
+    "description": "asking for a price break for many seats",
+    "team": "Sales and pre-sales"
+  },
+  {
+    "label": "contract_terms",
+    "description": "legal wording, terms of service or data agreement",
+    "team": "Sales and pre-sales"
+  },
+  {
+    "label": "custom_onboarding",
+    "description": "wants training or onboarding for their team",
+    "team": "Sales and pre-sales"
+  },
+  {
+    "label": "feature_request",
+    "description": "wants something new added",
+    "team": "Product feedback and other"
+  },
+  {
+    "label": "bug_report_minor",
+    "description": "cosmetic glitch or small annoyance",
+    "team": "Product feedback and other"
+  },
+  {
+    "label": "ui_complaint",
+    "description": "dislikes a design change or the layout",
+    "team": "Product feedback and other"
+  },
+  {
+    "label": "praise",
+    "description": "just saying thanks or that they love it",
+    "team": "Product feedback and other"
+  },
+  {
+    "label": "general_complaint",
+    "description": "frustrated in general, no single issue",
+    "team": "Product feedback and other"
+  },
+  {
+    "label": "accessibility",
+    "description": "screen reader, contrast or keyboard access issue",
+    "team": "Product feedback and other"
+  },
+  {
+    "label": "language_localization",
+    "description": "wants another language or a translation fix",
+    "team": "Product feedback and other"
+  },
+  {
+    "label": "dark_mode_theme",
+    "description": "appearance and theme requests",
+    "team": "Product feedback and other"
+  },
+  {
+    "label": "documentation_help",
+    "description": "can't find how to do something in the help docs",
+    "team": "Product feedback and other"
+  },
+  {
+    "label": "how_to_question",
+    "description": "how do I do a specific thing in the app",
+    "team": "Product feedback and other"
+  },
+  {
+    "label": "spam_or_irrelevant",
+    "description": "spam, sales pitch or wrong company",
+    "team": "Product feedback and other"
+  },
+  {
+    "label": "press_inquiry",
+    "description": "journalist or media request",
+    "team": "Product feedback and other"
+  },
+  {
+    "label": "legal_request",
+    "description": "subpoena, copyright or law-enforcement request",
+    "team": "Product feedback and other"
+  },
+  {
+    "label": "outage_report",
+    "description": "says the whole service seems down",
+    "team": "Product feedback and other"
+  }
+]

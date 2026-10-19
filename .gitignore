@@ -1,0 +1,17 @@
+.DS_Store
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*service-account*.json
+*serviceAccount*.json
+node_modules/
+.venv/
+__pycache__/
+private/
+local/
+raw-transcripts/
+*.mov
+*.mp4
+*.wav

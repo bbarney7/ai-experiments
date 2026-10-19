@@ -1,0 +1,23 @@
+{
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "answer",
+    "confidence"
+  ],
+  "properties": {
+    "answer": {
+      "type": "string",
+      "enum": [
+        "very negative, a terrible experience",
+        "mostly negative, several real problems",
+        "mixed, some good and some bad",
+        "mostly positive with minor complaints",
+        "very positive, an excellent experience"
+      ]
+    },
+    "confidence": {
+      "type": "number"
+    }
+  }
+}

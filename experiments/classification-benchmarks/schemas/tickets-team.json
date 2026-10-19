@@ -1,0 +1,23 @@
+{
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "answer",
+    "confidence"
+  ],
+  "properties": {
+    "answer": {
+      "type": "string",
+      "enum": [
+        "Billing: charges, invoices, refunds, plan changes and payment methods",
+        "Technical support: bugs, errors, performance, integrations, imports and exports",
+        "Account and access: logging in, passwords, security, teammates, permissions and account settings",
+        "Sales and pre-sales: pricing, demos, trials, contracts and questions from people who have not bought yet",
+        "Product feedback and other: feature requests, praise, complaints, how-to questions and anything else"
+      ]
+    },
+    "confidence": {
+      "type": "number"
+    }
+  }
+}
